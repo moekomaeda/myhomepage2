@@ -23,7 +23,7 @@ background:linear-gradient(to bottom,
   rgb(248, 248, 248,1) 0%,
   rgba(94, 92, 92, 0.5) 25%,
   rgba(59, 58, 58, 0.5) 75%,
-  rgba(248, 248, 248,1) 100%),url("../image/monotone.JPG");
+  rgba(248, 248, 248,1) 100%),url("monotone.JPG");
 background-position: center center;
 background-size: cover;
 }
@@ -170,7 +170,7 @@ text-align: left;
   rgb(248, 248, 248,1) 0%,
   rgba(94, 92, 92, 0.5) 25%,
   rgba(59, 58, 58, 0.5) 75%,
-  rgba(248, 248, 248,1) 100%),url("../image/sheisaboy.JPG");
+  rgba(248, 248, 248,1) 100%),url("sheisaboy.JPG");
   background-position:center bottom;
   background-size: cover;
   width:100%;
